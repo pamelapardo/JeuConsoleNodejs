@@ -11,7 +11,7 @@
 
                                                                                                      
 Regarde aux yeux de ton enemi et attend pour le signal.
-Si le signal est donné, tire contre ton enemi en appuyant sur 'space'.
+Si le signal est donné, tire contre ton enemi en appuyant 'a'(joueur à auche), ou 'l'(joueur à droite).
 Que le plus vite gagne !
 
 
